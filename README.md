@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hej, and welcome to my GitHub Profile!
+
+- I'm currently working on massive black hole accretion and feedback in low-mass dwarf galaxies, using numerical astrophysical simulations. 
+- I'm actively analysing large amounts of data on a daily basis, and like to share some the routines I use to visualise my simulations.
+- I'm interested in all things related to numerical simulations and data analysis/science. 
 
 <!--
 **AstroJPetersson/AstroJPetersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
