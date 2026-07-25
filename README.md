@@ -1,1 +1,4 @@
-Hej! 👋 I am a doctoral student in theoretical & computational astrophysics at EPFL Switzerland 🇨🇭 - Studying massive black hole accretion & feedback in dwarf galaxies using radiation-magneto-hydrodynamic simulations 🌌
+### Hej 👋
+Doctoral assistant in theoretical & computational astrophysics at EPFL Switzerland 🇨🇭<br>
+Studying black hole accretion & feedback in dwarf galaxies using numerical simulations 🌌<br>
+BSc & MSc in Astrophysics at Lund University 🦁
