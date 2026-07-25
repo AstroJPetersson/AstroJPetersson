@@ -4,4 +4,4 @@ Studying black hole accretion & feedback in dwarf galaxies using numerical simul
 BSc & MSc in Astrophysics at Lund University 🦁
 
 ### How to contact me 📫
-<jonathan.petersson@epfl.ch>
+<jonathan.petersson@epfl.ch> or <astrojpetersson@gmail.com>
